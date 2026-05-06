@@ -46,4 +46,4 @@ if data is not None:
         
         print(f"--- РЕЗУЛТАТ ОТ ИЗКУСТВЕНИЯ ИНТЕЛЕКТ ---")
         print(final_analysis)
-        print("="*50)
+        print("="*50) 
